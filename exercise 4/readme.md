@@ -5,7 +5,7 @@
 Hi Suz!! in your terminal run the following command:
 
 ```bash
-node index input/example.in
+node index input/example1.in
 ```
 
 The last command-line parameter is the file name to process.
